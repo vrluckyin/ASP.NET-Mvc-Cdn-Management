@@ -6,7 +6,7 @@
 <head runat="server">
     <title>View1</title>
     <% Html.StyleLink("Styles/Site.css");  %>
-    <% Html.ScriptLink("Scripts/jquery-1.4.1.min.js");  %>
+    <% Html.Resource(ResourceType.Script, "Cdn.Script.jquery"); %>
     <script type="text/javascript">
         $(document).ready(function () {
             alert('loaded');
