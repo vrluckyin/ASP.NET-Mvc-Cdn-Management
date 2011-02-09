@@ -1,0 +1,5 @@
+D:\Vipul\Project R&D\MvcCdnManagement\MvcCdnManagement\Mvc3.CdnManagement\bin\Debug\Mvc3.CdnManagement.dll
+D:\Vipul\Project R&D\MvcCdnManagement\MvcCdnManagement\Mvc3.CdnManagement\bin\Debug\Mvc3.CdnManagement.pdb
+D:\Vipul\Project R&D\MvcCdnManagement\MvcCdnManagement\Mvc3.CdnManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Vipul\Project R&D\MvcCdnManagement\MvcCdnManagement\Mvc3.CdnManagement\obj\Debug\Mvc3.CdnManagement.dll
+D:\Vipul\Project R&D\MvcCdnManagement\MvcCdnManagement\Mvc3.CdnManagement\obj\Debug\Mvc3.CdnManagement.pdb

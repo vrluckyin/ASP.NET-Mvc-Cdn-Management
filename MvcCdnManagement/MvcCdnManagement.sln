@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcCdnManagement", "MvcCdnManagement\MvcCdnManagement.csproj", "{6F9DABDF-A2B8-4BD9-84B2-E8AB9FC26933}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mvc3.CdnManagement", "Mvc3.CdnManagement\Mvc3.CdnManagement.csproj", "{9CCFDBDB-196D-465A-AC4E-D4A169DD13F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cdn", "..\Cdn\Cdn\Cdn.csproj", "{DCD7C1A5-0401-4A93-974E-46DA4293BA42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F9DABDF-A2B8-4BD9-84B2-E8AB9FC26933}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F9DABDF-A2B8-4BD9-84B2-E8AB9FC26933}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F9DABDF-A2B8-4BD9-84B2-E8AB9FC26933}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F9DABDF-A2B8-4BD9-84B2-E8AB9FC26933}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CCFDBDB-196D-465A-AC4E-D4A169DD13F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CCFDBDB-196D-465A-AC4E-D4A169DD13F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CCFDBDB-196D-465A-AC4E-D4A169DD13F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CCFDBDB-196D-465A-AC4E-D4A169DD13F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCD7C1A5-0401-4A93-974E-46DA4293BA42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD7C1A5-0401-4A93-974E-46DA4293BA42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD7C1A5-0401-4A93-974E-46DA4293BA42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD7C1A5-0401-4A93-974E-46DA4293BA42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
