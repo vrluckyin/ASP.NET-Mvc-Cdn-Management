@@ -11,7 +11,7 @@ namespace CdnManagement
     {
         private static string StyleInternal(this HtmlHelper htmlHelper, string appSettingKey)
         {
-            string url = ConfigurationManager.AppSettings[appSettingKey];
+            string url = ConfigurationManager.AppSettings[appSettingKey]; 
             if (string.IsNullOrEmpty(url))
             {
                 throw new Exception(string.Format("CdnManagement Error: Key - {0} is not found.", appSettingKey));
