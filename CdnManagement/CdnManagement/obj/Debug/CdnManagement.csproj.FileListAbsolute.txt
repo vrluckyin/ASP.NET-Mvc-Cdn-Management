@@ -1,0 +1,5 @@
+D:\Projects\CodePlex\Cdn.Mvc3\CdnManagement\CdnManagement\bin\Debug\CdnManagement.dll
+D:\Projects\CodePlex\Cdn.Mvc3\CdnManagement\CdnManagement\bin\Debug\CdnManagement.pdb
+D:\Projects\CodePlex\Cdn.Mvc3\CdnManagement\CdnManagement\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\CodePlex\Cdn.Mvc3\CdnManagement\CdnManagement\obj\Debug\CdnManagement.dll
+D:\Projects\CodePlex\Cdn.Mvc3\CdnManagement\CdnManagement\obj\Debug\CdnManagement.pdb
