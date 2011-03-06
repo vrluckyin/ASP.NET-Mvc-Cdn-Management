@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdnManagement.Web", "CdnManagement.Web\CdnManagement.Web.csproj", "{2A380B28-A669-4E02-AC0D-13C9431F90CD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CdnManagement", "CdnManagement\CdnManagement.csproj", "{AA51088D-EB6F-4320-95CB-2B97034DCDA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A380B28-A669-4E02-AC0D-13C9431F90CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A380B28-A669-4E02-AC0D-13C9431F90CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A380B28-A669-4E02-AC0D-13C9431F90CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A380B28-A669-4E02-AC0D-13C9431F90CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA51088D-EB6F-4320-95CB-2B97034DCDA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA51088D-EB6F-4320-95CB-2B97034DCDA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA51088D-EB6F-4320-95CB-2B97034DCDA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA51088D-EB6F-4320-95CB-2B97034DCDA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
